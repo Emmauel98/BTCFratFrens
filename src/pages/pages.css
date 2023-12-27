@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&family=Eagle+Lake&family=Inter:wght@200&family=Roboto&display=swap');
+
+.font{
+    font-family: 'Dosis', sans-serif;
+};
+.roboto{
+    font-family: "Roboto", sans-serif;
+}
+.Inter{
+    font-family: "Inter", sans-serif;
+}
+.eaglelake{
+    font-family: 'Eagle Lake', serif;
+}
