@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&family=DotGothic16&family=Eagle+Lake&family=Inter:wght@200&family=Literata:opsz@7..72&family=Roboto&display=swap');
+
+.dosis{
+    font-family: 'Dosis', sans-serif;
+}
+.dotGothics{
+    font-family: 'DotGothic16', sans-serif;
+}
+
+.star {
+    position: absolute;
+    background: #94b1f8;
+    opacity: 100;
+    animation: twinkling 14s infinite;
+    z-index: 900;
+  }
+.inter{
+    font-family: 'Inter', sans-serif;
+}
+.literata{
+    font-family: 'Literata', serif;
+}
+.eagleLake{
+  font-family: 'Eagle Lake', serif;
+}
+  @keyframes twinkling {
+    0% {
+      opacity: 0;
+      margin-top: 0rem;
+    }
+    50% {
+      opacity: 1;
+      margin-top: 3rem;
+    }
+    100%{
+      opacity: 0;
+      margin-top: 0rem;
+    }
+  }

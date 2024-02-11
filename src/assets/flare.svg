@@ -1,0 +1,18 @@
+<svg width="785" height="688" viewBox="0 0 785 688" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_18_4)">
+<path d="M513.444 212.586C475.616 176.547 458.217 111.583 406.272 106.522C353.05 101.336 317.28 155.364 276.02 189.454C275.92 189.536 275.82 189.618 275.721 189.701L406.025 320.005L513.444 212.586Z" fill="#0A7CFF"/>
+<path d="M513.445 212.586L406.026 320.005H630.345C621.27 285.294 591.314 266.326 560.52 246.83C544.044 236.397 527.328 225.814 513.445 212.586Z" fill="#0A7CFF"/>
+<path d="M406.025 320.004L275.721 189.7C262.742 200.388 248.093 210.147 233.456 219.899C192.999 246.852 152.634 273.744 147.887 320.004H406.025Z" fill="#FF469D"/>
+<path d="M147.887 320.005C141.226 384.913 196.207 438.641 246.152 480.492L406.025 320.005H147.887Z" fill="#117CF7"/>
+<path d="M589.552 503.704C636.392 458.442 646.835 383.089 630.345 320.005H406.026L589.552 503.704Z" fill="#7B7DD7"/>
+<path d="M406.025 320.005L246.152 480.492C297.798 523.769 348.889 532.504 416.392 537.22L416.411 537.221L406.025 320.005Z" fill="#7733FF"/>
+<path d="M589.552 503.704L406.026 320.005L416.411 537.221C478.133 541.533 545.527 546.241 589.552 503.704Z" fill="#7B7DD7"/>
+</g>
+<defs>
+<filter id="filter0_f_18_4" x="0.00186157" y="-41.1601" width="784.998" height="728.42" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="73.6671" result="effect1_foregroundBlur_18_4"/>
+</filter>
+</defs>
+</svg>

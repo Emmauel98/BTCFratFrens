@@ -5,19 +5,19 @@ import searchIcon2 from "../assets/searchIcon2.svg";
 import NFT from "./NFT";
 import { useState } from "react";
 import NFTS from "../NFTData/NFT";
+import Connect_Wallet from "../components/Connect_Wallet";
 
 const Collection = () => {
 
   const [NFTsData , setNFTsData] = useState(NFTS);
 
   const searchNFTs = (e) =>{
-    // console.log(NFTS);
-    // console.log(NFTsData[0]);
-    const searchValue = (e.target.value).toUpperCase();
-    const filteredNFTs = NFTsData.filter( nft => nft.Body.toUpperCase().includes(searchValue));
-    const legitFilteredNFTs = filteredNFTs.length > 0 ? filteredNFTs : NFTS ;
-    setNFTsData(legitFilteredNFTs);
-    console.log(filteredNFTs);
+    // const searchValue = (e.target.value).toUpperCase();
+    // const filteredNFTs = NFTsData.filter( nft => nft.Body.toUpperCase().includes(searchValue));
+    // const legitFilteredNFTs = filteredNFTs.length > 0 ? filteredNFTs : NFTS ;
+    // setNFTsData(legitFilteredNFTs);
+    // console.log(filteredNFTs);
+    alert("This page is under edvelopment")
   };
 
 
@@ -26,15 +26,7 @@ const Collection = () => {
       <div 
        className="bg-[#080808] relative
        ">
-        <div
-          className="
-        bg-[#DA7A22] lg:w-[13vw] text-center float-right
-          m-5 p-3 rounded-3xl font cursor-pointer md:w-[20vw]
-          w-[35vw]
-          "
-        >
-          Connect Wallet
-        </div>
+        <Connect_Wallet />
         <div className=" blur-3xl opacity-50 absolute">
           <img src={glowing} alt="" className=" rounded-full" />
         </div>
