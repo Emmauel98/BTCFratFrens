@@ -1,6 +1,5 @@
-// import "./landing.css";
+import "./Landing.css";
 import bulletin from "../../assets/bulletin.svg";
-import "../../pages/Landing/Landing.css"
 
 
 const list = [
