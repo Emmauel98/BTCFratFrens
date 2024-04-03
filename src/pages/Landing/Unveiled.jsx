@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import unveiled from "../../assets/unveiled.svg";
 import unveiled2 from "../../assets/unveiled2.svg";
-import "./landing.css";
+import "./Landing.css";
 
 
 
