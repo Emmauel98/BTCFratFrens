@@ -1,5 +1,5 @@
 import "./pages.css";
-import glowing from "../assets/group.svg";
+import glowing from "../assets/Group.svg";
 import searchIcon from "../assets/searchIcon.svg";
 import searchIcon2 from "../assets/searchIcon2.svg";
 import NFT from "./NFT";
