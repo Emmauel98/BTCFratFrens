@@ -36,7 +36,7 @@ const Hero_section = () => {
         {/* ref={starRef} */}
         <div className="relative">
           <div
-            className="absolute w-[120vw] lg:h-[130vh] bg-gray-400 lg:rounded-b-full 
+            className="absolute w-[120vw] lg:h-[137vh] bg-gray-400 lg:rounded-b-full 
            bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-[10%] 
            border-b border-gray-100 lg:top-[-20rem] md:left-[-7.5rem] md:rounded-b-full
            md:top-[-7rem] rounded-b-full left-[-3rem] top-[-8vh] h-[102vh]

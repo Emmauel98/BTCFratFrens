@@ -14,9 +14,11 @@ const Inscribed = () => {
           md:text-[2rem] py-[1rem] w-screen
           text-white text-[1.2rem] bg-black
           ">
-          1st Underground <span>Bitmap</span> Project
+          1st Underground <span className="bg-[#D9D9D9] text-black p-1 rounded-md">Bitmap</span> Project
         </h1>
-      <div className="lg:flex gap-[2rem] bg-black lg:pt-[5rem]">
+      <div className="lg:flex gap-[2rem] bg-black lg:pt-[5rem]  backgroundImage"
+      // style={{ backgroundImage: `url(${bg})`, }}
+      >
         <div
           className=" order-2 pt-[9%] lg:px-0 px-[1.8rem] md:px-[3rem]
           lg:pb-0 pb-[2rem]

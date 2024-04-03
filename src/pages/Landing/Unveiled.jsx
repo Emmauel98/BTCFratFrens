@@ -3,14 +3,18 @@ import unveiled from "../../assets/unveiled.svg";
 import unveiled2 from "../../assets/unveiled2.svg";
 import "./landing.css";
 
+
+
 const Unveiled = () => {
   const device_width = window.outerWidth;
-  console.log(device_width);
+
+
   return (
     <>
       <div
-        className="lg:flex gap-[2rem] bg-black lg:pt-[5rem] pb-20
-      "
+        className={`lg:flex gap-[2rem] bg-black lg:pt-[5rem] pb-20
+        backgroundImage
+      `}
       >
         <div
           className="pt-[9%] lg:px-0 px-[1.8rem] md:px-[3rem]

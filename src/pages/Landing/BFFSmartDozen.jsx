@@ -18,7 +18,7 @@ const BFFSmartDozen = () => {
       <div className="text-center bg-black">
         <h1 className="dotGothics lg:text-[3rem] md:text-[3rem] text-white">BFF Smart Dozens</h1>
         <br /><br />
-        <ul className="eagleLake md:text-[1.5rem]">
+        <ul className="eagleLake md:text-[1.5rem] text-[.8rem] ml-1">
           {list.map((list, index) => {
             return (
               <div key={index} className="flex gap-2 lg:px-[8%] md:px-[6%] px-[3%] pb-5 text-white">
