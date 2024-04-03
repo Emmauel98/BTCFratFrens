@@ -1,5 +1,7 @@
-import "./landing.css";
+// import "./landing.css";
 import bulletin from "../../assets/bulletin.svg";
+import "../../pages/Landing/Landing.css"
+
 
 const list = [
   "Immutable On-Chain Json",
