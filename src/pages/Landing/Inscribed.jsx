@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import code from "../../assets/code.svg";
 import code2 from "../../assets/code2.svg";
-import "./landing.css";
+import "./Landing.css";
 
 
 const Inscribed = () => {
